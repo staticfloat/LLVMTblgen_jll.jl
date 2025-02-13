@@ -1,0 +1,31 @@
+[[LLVMTblgen]]
+arch = "x86_64"
+git-tree-sha1 = "b36242ca459d4f644796b4dc02571a5cc7bc318c"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMTblgen.download]]
+    sha256 = "b53589146e0970c0c4b7abc8e6e0742cfd16af9b1a6259f9af366d76e3bd6b84"
+    url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-v17.0.0-x86_64-linux-gnu.tar.gz"
+
+[[LLVMTblgen-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "5146471e157bbf5c9a1d3c7c7837610ccb4dc52b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMTblgen-build_log.download]]
+    sha256 = "f6188189e912d239c9d21decfa74f00733f2e13f854ee638892c2883ae93d952"
+    url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
+
+[[LLVMTblgen-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "9227bc3ecf1189bcde6c49c004899c7ee3be8496"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMTblgen-extract_log.download]]
+    sha256 = "7e75f66058035d3127050edfcc6efb842ee52cd918e528fef63f01fa59e9acc6"
+    url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
