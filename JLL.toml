@@ -21,17 +21,17 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:5146471e157bbf5c9a1d3c7c7837610ccb4dc52b"
+    treehash = "sha1:4bed29e4cf657907fdbd8eced8383a62232be468"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:f6188189e912d239c9d21decfa74f00733f2e13f854ee638892c2883ae93d952"
+        tarball_hash = "sha256:9203b3b6262356615678ec20a2705c3cf06a1ba0ed9f561c3efbea401a3fd09e"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:9227bc3ecf1189bcde6c49c004899c7ee3be8496"
+    treehash = "sha1:c5ee75eb22c97098f8cfed7651369c8da1bac78b"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:7e75f66058035d3127050edfcc6efb842ee52cd918e528fef63f01fa59e9acc6"
+        tarball_hash = "sha256:80fc038930ebfbb81b756813fa9a860abe15539f1f13b020750c5bb6888d9634"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
     [[builds.products]]
@@ -57,10 +57,13 @@ src_version = "17.0.6"
     [[builds.sources]]
     treehash = "sha1:be9615ab49c7462348f8aa4495917a006f5ad8b2"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/bundled"
+    [[builds.sources]]
+    treehash = "sha1:a218efe91088b4350378a897fea2fedd883d9538"
+    url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:b36242ca459d4f644796b4dc02571a5cc7bc318c"
+    treehash = "sha1:ad2821f11ffc6be09a972fc9bf3149f5d646263a"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:b53589146e0970c0c4b7abc8e6e0742cfd16af9b1a6259f9af366d76e3bd6b84"
+        tarball_hash = "sha256:4ca35ac802b7995c19afcce6a64eb4bd4337be8394f058fddead0fbd84ce8854"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-v17.0.0-x86_64-linux-gnu.tar.gz"
