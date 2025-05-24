@@ -21,17 +21,17 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:66263c490d4822e33706c0045032db12f3517f9a"
+    treehash = "sha1:36d165a4311aa6719762a67d85f8cab32c774b6f"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:f5893e3de7bc1b9e1d8ff48f47ed412ddf6a2cdad498b93c4b1e7c476fb2e829"
+        tarball_hash = "sha256:53b5bb756dab8a5f38016b3b13f3bfa13e25732e8cce715fee092deacd0b1325"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:69e649455edcc5f39c462bc437a5b647ce65ba3c"
+    treehash = "sha1:57399c0fbb66bfcc3c57e20eb9dc35bd1d201355"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:1abd6b7520db5475acef035fb050b6de0dc9dd1573a5f0e54d573f4c49508af5"
+        tarball_hash = "sha256:a95afd6064cd6aa05cbb0834518a983b988279649a60fd7fbc86a989267713e9"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
     [[builds.products]]
@@ -58,12 +58,12 @@ src_version = "17.0.6"
     treehash = "sha1:7ca79cf37d73c65d637da0be61e802b6f0f8c009"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/bundled"
     [[builds.sources]]
-    treehash = "sha1:a218efe91088b4350378a897fea2fedd883d9538"
+    treehash = "sha1:d472d2a50ae0defb412bcb0f8b937cd142e9dfcf"
     url = "/home/sabae/src/BB2/bootstrap/LLVM/patches/v17.0.6"
 
     [builds.artifact]
-    treehash = "sha1:775866d3ed9384a4a68b54d529adc6747690b97a"
+    treehash = "sha1:b04ef090c8df076886fa808abec3b8fb78797620"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:9bb9841b3cd0188490844f2607814ef794bb918d368b0ff3def4e132115a9d27"
+        tarball_hash = "sha256:9b2a1846cdcb500f8e00e4565eb6876c5186c0cede12b7875e4838340e5640b4"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-v17.0.0-x86_64-linux-gnu.tar.gz"
