@@ -5,27 +5,27 @@ libc = "glibc"
 os = "linux"
 
     [[LLVMTblgen.download]]
-    sha256 = "50454b09d2561637c24f92552ed845ed856a5fcf7ca11a3f0dfcaee0e9862c9b"
+    sha256 = "cc2891bb84fbb4857dac0a354f48aef1fb9fd5494cc753a1667deb3d4fadb5d7"
     url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-v17.0.0-x86_64-linux-gnu.tar.gz"
 
 [[LLVMTblgen-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "5804ab80788bbdea456fba346b0627240c2d86a1"
+git-tree-sha1 = "82ac5bf9992edbc6ffd81316a83c0583186ae1ab"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[LLVMTblgen-build_log.download]]
-    sha256 = "357bc0a5b8140a26e6527a486df4f41a6a0ff03dd6496eb33367e7c5453d6389"
+    sha256 = "adbcbc3da7915186639038df2dd582de4f0a1c64540e4e76e4e231792489859f"
     url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
 [[LLVMTblgen-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "c381d1ce4ba8e39d7c7d79c8a6c1ef6231497165"
+git-tree-sha1 = "f31af03a83b24bb8d3d01397642771d4ddcd7b80"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[LLVMTblgen-extract_log.download]]
-    sha256 = "e41ba59999eb669a911ab200091b42d2d89fc777c23c271cc3ad1c245bc68666"
+    sha256 = "4b31a5d17e90fc2b8e7220564eb6b7a1d24ffa8a74cbc3ae235fc7bfa4c3128d"
     url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0/LLVMTblgen-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
