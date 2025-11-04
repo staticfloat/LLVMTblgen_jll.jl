@@ -21,17 +21,17 @@ src_version = "17.0.6"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:544fd5a9c776f7ae646546128b9a7611b153a4c5"
+    treehash = "sha1:f21235236cc9cc6d707303ea18787fd818096e1b"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:b3ebbeb6f3bea949a6e76cd4888b8266d39444029f48eead1b49ef576a4fc81f"
+        tarball_hash = "sha256:6440ab63160906613e371c926a8436b80369909f014a8803c0cdb9948e1d79f1"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMTblgen-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:56e9d87fd6dacdd6265dfe8162bf710720d87c4e"
+    treehash = "sha1:6f3a34d14d469302ee10fa8f7f0db8b7ee37aee1"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:30ed97d1dfefc029210b2de5634297c2971b2e7f57a8e822042db469d76264d0"
+        tarball_hash = "sha256:f0550914a937b3ae4d8d0616a27cc612fa7a1b3a31fe28078d0659154a308d59"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMTblgen-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
     [[builds.products]]
@@ -65,5 +65,5 @@ src_version = "17.0.6"
     treehash = "sha1:0eaebd40916149984099ad57772a8a24a38ae31d"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:d847e71bc5ee64280f2850d27722caca11e3c3dae8125e3199e8623021cf52a3"
+        tarball_hash = "sha256:1b21117263e24930b44933bf1b8d43b0d25d4116c1c6299c5bb15b39e65abbe0"
         url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMTblgen-v17.0.0-x86_64-linux-gnu.tar.gz"
