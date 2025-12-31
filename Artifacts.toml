@@ -5,7 +5,7 @@ libc = "glibc"
 os = "linux"
 
     [[LLVMTblgen.download]]
-    sha256 = "136b22f019588ce001425db34aa6bd0a5e695cd8b91a1cc39dd035d156f64a85"
+    sha256 = "119bbf277a64bdbea8eba7f511d690cd7411846c168b4b4f85c7ad3e525aea02"
     url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMTblgen-v17.0.0-x86_64-linux-gnu.tar.gz"
 
 [[LLVMTblgen-build_log]]
@@ -16,7 +16,7 @@ libc = "glibc"
 os = "linux"
 
     [[LLVMTblgen-build_log.download]]
-    sha256 = "824a99b4b8830ef7f49450d2c41e56785374ec948a2c4a2f03ceb67b4fbae212"
+    sha256 = "53dc3293c33b05a3f98fcf78a3fa084ac7b11752d3844d8503ff66008953f9ac"
     url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMTblgen-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
 [[LLVMTblgen-extract_log]]
@@ -27,5 +27,5 @@ libc = "glibc"
 os = "linux"
 
     [[LLVMTblgen-extract_log.download]]
-    sha256 = "e5068efd85e10ae86515cb11d5a0a4f2a5bcf8f79c4e832336279f8f2f8cdfbd"
+    sha256 = "0c1d5a8f18e7f047634ddf523c111125f1487b65b40e472d82a56ce672e79f83"
     url = "https://github.com/staticfloat/LLVMTblgen_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMTblgen-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
